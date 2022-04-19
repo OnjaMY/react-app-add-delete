@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reat-app-add-delete/static/css/main.e2317714.css",
+    "main.js": "/reat-app-add-delete/static/js/main.cf692680.js",
+    "static/js/787.aefd5810.chunk.js": "/reat-app-add-delete/static/js/787.aefd5810.chunk.js",
+    "index.html": "/reat-app-add-delete/index.html",
+    "main.e2317714.css.map": "/reat-app-add-delete/static/css/main.e2317714.css.map",
+    "main.cf692680.js.map": "/reat-app-add-delete/static/js/main.cf692680.js.map",
+    "787.aefd5810.chunk.js.map": "/reat-app-add-delete/static/js/787.aefd5810.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2317714.css",
+    "static/js/main.cf692680.js"
+  ]
+}
